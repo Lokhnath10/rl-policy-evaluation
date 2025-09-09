@@ -28,7 +28,7 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 <img width="1446" height="616" alt="image" src="https://github.com/user-attachments/assets/c905cb6a-3b9a-4eef-97b1-602504d10fa9" />
-<img width="1398" height="735" alt="image" src="https://github.com/user-attachments/assets/855fcfa4-8823-477b-bd00-098c67c9ecb4" />
+
 <img width="1390" height="161" alt="image" src="https://github.com/user-attachments/assets/9f9afc17-72f8-496c-9918-17df441fc898" />
 <img width="1025" height="498" alt="image" src="https://github.com/user-attachments/assets/30b50766-bf8b-4635-9c74-74d2e4a2d821" />
 <img width="741" height="480" alt="image" src="https://github.com/user-attachments/assets/6f59df50-710e-48b2-9a1f-bc6a5de42674" />
